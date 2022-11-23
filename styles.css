@@ -1,0 +1,49 @@
+body {
+    background-color: black;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+header{
+    background-color: white;
+    margin-left: 424px;
+    margin-right: 424px;
+    display: block;
+    margin-top: 0px;
+}
+p1{
+    display: inline-block;
+    margin: 0%;
+    font-size: 7px;
+    margin-top: 3px;
+}
+div.cont{
+    background-color: white;
+    text-align: left;
+    margin-top: 20px;
+    height: 30px; 
+   
+}
+p{
+    background-color: white;
+    margin-left: 424px;
+    margin-right: 424px;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: left;
+}
+#n{
+    background-color: white;
+    margin-left: 424px;
+    margin-right: 424px;
+    margin-top: -5px;
+    text-align: start;
+}
+button#na{
+    margin-top: 2px;
+    margin-left: 5px;
+}
+button#nan{
+    float: right;
+    margin-right: 5px;
+    margin-top: 2px;
+}
