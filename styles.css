@@ -16,12 +16,11 @@ p1{
     font-size: 7px;
     margin-top: 3px;
 }
-div.cont{
+div.content{
     background-color: white;
     text-align: left;
     margin-top: 20px;
     height: 30px; 
-   
 }
 p{
     background-color: white;
@@ -30,20 +29,25 @@ p{
     margin-top: 0;
     margin-bottom: 0;
     text-align: left;
+    font-size: small;
 }
-#n{
+#btn{
     background-color: white;
     margin-left: 424px;
     margin-right: 424px;
     margin-top: -5px;
     text-align: start;
 }
-button#na{
+button#btn-left{
     margin-top: 2px;
     margin-left: 5px;
 }
-button#nan{
+button#btn-right{
     float: right;
     margin-right: 5px;
     margin-top: 2px;
+}
+.imag {
+    float: inline-start;
+    box-sizing: content-box;
 }
